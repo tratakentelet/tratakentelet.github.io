@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tratakentelet.github.io/sitemap.html
+Sitemap: https://tratakentelet.github.io/app/sitemap.html
+Sitemap: https://tratakentelet.github.io/assets/sitemap.html
+Sitemap: https://tratakentelet.github.io/css/sitemap.html
+Sitemap: https://tratakentelet.github.io/includes/sitemap.html
+Sitemap: https://tratakentelet.github.io/item/sitemap.html
+Sitemap: https://tratakentelet.github.io/src/sitemap.html
